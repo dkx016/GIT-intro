@@ -1,3 +1,5 @@
 Plan pracy
 1. Inicjalizacja
 2. Specyfikacja wymagañ
+3. Analiza
+4. Prototypowanie
