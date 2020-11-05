@@ -3,3 +3,5 @@ Plan pracy
 2. Specyfikacja wymagañ
 3. Analiza
 4. Prototypowanie
+5. Implementacja
+6. Testowanie
